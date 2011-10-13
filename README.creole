@@ -1,0 +1,3 @@
+==RedstoneSpawners
+
+Bukkit plugin adds support for using redstone current to stimulate Mob Spawners.
