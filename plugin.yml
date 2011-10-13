@@ -1,0 +1,6 @@
+name: RedstoneSpawners
+version: 1.0 Raw
+description: Control Spawners with Redstone
+author: nickrak
+website: http://github.com/nickrak/RedstoneSpawners
+main: nickrak.redstonespawners.RedstoneSpawners
